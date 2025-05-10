@@ -13,7 +13,7 @@ system requirement: only the MATLAB (R2019b) software was used in the data analy
 
 Downloading and Installation guide: https://www.mathworks.com/products/new_products/release2019b.html
 
-Demo (all the de-identified data to generate the figures have been provided) The run time will be very short.
+Demo (all the de-identified data to generate the figures will be made available from the corresponding author upon request) The run time will be very short.
 
 Instructions for use: Please directly run all fig_*.m files.
 
